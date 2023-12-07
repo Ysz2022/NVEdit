@@ -1,6 +1,3 @@
-# Neural Video Fields Editing
-Our code is coming soon……
-
 <div align="center">
 <!-- <h1>NVEdit</h1> -->
 <h3>Neural Video Fields Editing</h3>
@@ -13,3 +10,5 @@ Our code is coming soon……
 [![Home Page](https://img.shields.io/badge/Project_Page-<Gallery>-blue.svg)](https://nvedit.github.io/)
 
 </div>
+
+Our code is coming soon……
