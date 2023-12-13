@@ -47,7 +47,7 @@ More results can be found on our [**Home Page**](https://nvedit.github.io/).
   <tr>
     <td><img src="teaser/videos/ms.gif" alt="Image 1"></td>
     <td><img src="teaser/videos/ms_Hulk.gif" alt="Animation 1"></td>
-    <td><img src="teaser/videos/car.gif" alt="Image 3"></td>
+    <td><img src="teaser/videos/cat.gif" alt="Image 3"></td>
     <td><img src="teaser/videos/cat_ginger.gif" alt="Animation 1"></td>
     <td><img src="teaser/videos/sunflower.gif" alt="Image 2"></td>
     <td><img src="teaser/videos/sunflower_VG.gif" alt="Animation 1"></td>
