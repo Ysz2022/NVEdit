@@ -7,7 +7,7 @@
 <sup>1</sup> SECE, Peking University, <sup>2</sup> Peng Cheng Laboratory
 
 [![arXiv](https://img.shields.io/badge/arXiv-<Coming_Soon>-<COLOR>.svg)](https://github.com/Ysz2022/NVEdit)
-[![Home Page](https://img.shields.io/badge/Project_Page-<Gallery>-blue.svg)](https://nvedit.github.io/)
+[![Project Page](https://img.shields.io/badge/Project_Page-<Gallery>-blue.svg)](https://nvedit.github.io/)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 We have showcased some results of video editing using **NVEdit** on real-world videos below. 
 
-More results can be found on our [**Home Page**](https://nvedit.github.io/).
+More results can be found on our [**Project Page**](https://nvedit.github.io/).
 
 <table>
   <tr>
