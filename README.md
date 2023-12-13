@@ -44,6 +44,19 @@ More results can be found on our [**Home Page**](https://nvedit.github.io/).
     <td colspan="2"><center>"Turn his shirt pink"</center></td>
     <td colspan="2"><center>"Turn it into a Monet style painting"</center></td>
   </tr>
+  <tr>
+    <td><img src="teaser/videos/ms.gif" alt="Image 1"></td>
+    <td><img src="teaser/videos/ms_Hulk.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/car.gif" alt="Image 3"></td>
+    <td><img src="teaser/videos/cat_ginger.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/sunflower.gif" alt="Image 2"></td>
+    <td><img src="teaser/videos/sunflower_VG.gif" alt="Animation 1"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><center>"Turn him into the Hulk"</center></td>
+    <td colspan="2"><center>"Turn it into a ginger cat"</center></td>
+    <td colspan="2"><center>"Turn it into Van-Gogh style"</center></td>
+  </tr>
 </table>
 
 
