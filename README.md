@@ -42,7 +42,7 @@ More results can be found on our [**Home Page**](https://nvedit.github.io/).
   <tr>
     <td colspan="2"><center>"Make it autumn"</center></td>
     <td colspan="2"><center>"Turn his shirt pink"</center></td>
-    <td colspan="2"><center>"Turn it into a Monet style painting"</center></td>
+    <td colspan="2"><center>"Turn it into Monet style"</center></td>
   </tr>
   <tr>
     <td><img src="teaser/videos/ms.gif" alt="Image 1"></td>
