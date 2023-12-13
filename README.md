@@ -1,5 +1,4 @@
 <div align="center">
-<!-- <h1>NVEdit</h1> -->
 <h3>Neural Video Fields Editing</h3>
 
 [Shuzhou Yang](https://ysz2022.github.io/)<sup>1,2</sup>, [Chong Mou](https://scholar.google.com/citations?user=SYQoDk0AAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>, [Jiwen Yu](https://vvictoryuki.github.io/website/)<sup>1</sup>, Yuhan Wang<sup>1,2</sup>, [Xiandong Meng](https://orcid.org/0000-0002-1295-769X)<sup>2</sup>, [Jian Zhang](https://jianzhang.tech/)<sup>1*</sup>
@@ -9,9 +8,11 @@
 [![arXiv](https://img.shields.io/badge/arXiv-<Coming_Soon>-<COLOR>.svg)](https://github.com/Ysz2022/NVEdit)
 [![Project Page](https://img.shields.io/badge/Project_Page-<Gallery>-blue.svg)](https://nvedit.github.io/)
 
+**TL;DR: Editing long videos via neural video field.**
+
 </div>
 
-**TL;DR: Editing long videos via neural video field.**
+
 
 ## Gallery
 
