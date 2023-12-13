@@ -19,47 +19,17 @@ More results can be found on our [**Home Page**](https://nvedit.github.io/).
 
 <table>
   <tr>
-    <td>
-      <video width="320" height="320" controls autoplay loop>
-        <source src="teaser/videos/wolf.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="320" controls autoplay loop>
-        <source src="teaser/videos/wolf_bear.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="320" controls autoplay loop>
-        <source src="teaser/videos/face.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="320" controls autoplay loop>
-        <source src="teaser/videos/face_mustache.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="320" controls autoplay loop>
-        <source src="teaser/videos/car.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="320" controls autoplay loop>
-        <source src="teaser/videos/car_snow.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
+    <td><img src="teaser/videos/car.gif" alt="Image 1"></td>
+    <td><img src="teaser/videos/car_snow.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/face.gif" alt="Image 2"></td>
+    <td><img src="teaser/videos/face_mustache.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/wolf.gif" alt="Image 3"></td>
+    <td><img src="teaser/videos/wolf_bear.gif" alt="Animation 1"></td>
   </tr>
   <tr>
-    <td colspan="2"><center>"Turn the wolf into a brown bear"</center></td>
-    <td colspan="2"><center>"Give him a mustache"</center></td>
     <td colspan="2"><center>"Make it snowed"</center></td>
+    <td colspan="2"><center>"Give him a mustache"</center></td>
+    <td colspan="2"><center>"Turn the wolf into a brown bear"</center></td>
   </tr>
 </table>
 
