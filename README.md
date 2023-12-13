@@ -19,17 +19,30 @@ More results can be found on our [**Home Page**](https://nvedit.github.io/).
 
 <table>
   <tr>
-    <td><img width="100" height="100" src="teaser/videos/car.gif" alt="Image 1"></td>
-    <td><img width="100" height="100" src="teaser/videos/car_snow.gif" alt="Animation 1"></td>
-    <td><img width="100" height="100" src="teaser/videos/face.gif" alt="Image 2"></td>
-    <td><img width="100" height="100" src="teaser/videos/face_mustache.gif" alt="Animation 1"></td>
-    <td><img width="100" height="100" src="teaser/videos/wolf.gif" alt="Image 3"></td>
-    <td><img width="100" height="100" src="teaser/videos/wolf_bear.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/car.gif" alt="Image 1"></td>
+    <td><img src="teaser/videos/car_snow.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/face.gif" alt="Image 2"></td>
+    <td><img src="teaser/videos/face_mustache.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/wolf.gif" alt="Image 3"></td>
+    <td><img src="teaser/videos/wolf_bear.gif" alt="Animation 1"></td>
   </tr>
   <tr>
     <td colspan="2"><center>"Make it snowed"</center></td>
     <td colspan="2"><center>"Give him a mustache"</center></td>
     <td colspan="2"><center>"Turn the wolf into a brown bear"</center></td>
+  </tr>
+  <tr>
+    <td><img src="teaser/videos/Bosp.gif" alt="Image 1"></td>
+    <td><img src="teaser/videos/Bosp_autumn.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/person.gif" alt="Image 2"></td>
+    <td><img src="teaser/videos/person_pink.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/train.gif" alt="Image 3"></td>
+    <td><img src="teaser/videos/train_Monet.gif" alt="Animation 1"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><center>"Make it autumn"</center></td>
+    <td colspan="2"><center>"Turn his shirt pink"</center></td>
+    <td colspan="2"><center>"Turn it into a Monet style painting"</center></td>
   </tr>
 </table>
 
