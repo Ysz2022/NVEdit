@@ -8,7 +8,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-<Coming_Soon>-<COLOR>.svg)](https://github.com/Ysz2022/NVEdit)
 [![Project Page](https://img.shields.io/badge/Project_Page-<Gallery>-blue.svg)](https://nvedit.github.io/)
 
-**TL;DR: Editing long videos via neural video field.**
+**TL;DR: Editing long videos via neural video fields.**
 
 </div>
 
