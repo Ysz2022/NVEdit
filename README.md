@@ -11,9 +11,11 @@
 
 </div>
 
+**TL;DR: Editing long videos via neural video field.**
+
 ## Gallery
 
-We have showcased some results of **NVEdit**, which enables coherent long video editing via neural video field. 
+We have showcased some video editing results of **NVEdit** on real-world videos below.
 
 More results can be found on our [**Project Page**](https://nvedit.github.io/).
 
