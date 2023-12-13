@@ -14,7 +14,7 @@
 
 
 
-## Gallery
+## 📺 Gallery
 
 We have showcased some video editing results of **NVEdit** on real-world videos below.
 
@@ -63,6 +63,6 @@ More results can be found on our [**Project Page**](https://nvedit.github.io/).
 </table>
 
 
-## Code
+## 🤖 Code
 
 Our code is coming soon……
