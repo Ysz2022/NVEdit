@@ -13,7 +13,7 @@
 
 ## Gallery
 
-We have showcased some results of video editing using **NVEdit** on real-world videos below. 
+We have showcased some results of **NVEdit**, which enables coherent long video editing via neural video field. 
 
 More results can be found on our [**Project Page**](https://nvedit.github.io/).
 
