@@ -19,12 +19,12 @@ More results can be found on our [**Project Page**](https://nvedit.github.io/).
 
 <table>
   <tr>
-    <td><img src="teaser/videos/car.gif" alt="Image 1"></td>
-    <td><img src="teaser/videos/car_snow.gif" alt="Animation 1"></td>
-    <td><img src="teaser/videos/face.gif" alt="Image 2"></td>
-    <td><img src="teaser/videos/face_mustache.gif" alt="Animation 1"></td>
-    <td><img src="teaser/videos/wolf.gif" alt="Image 3"></td>
-    <td><img src="teaser/videos/wolf_bear.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/car.gif"></td>
+    <td><img src="teaser/videos/car_snow.gif"></td>
+    <td><img src="teaser/videos/face.gif"></td>
+    <td><img src="teaser/videos/face_mustache.gif"></td>
+    <td><img src="teaser/videos/wolf.gif"></td>
+    <td><img src="teaser/videos/wolf_bear.gif"></td>
   </tr>
   <tr>
     <td colspan="2"><center>"Make it snowed"</center></td>
@@ -32,12 +32,12 @@ More results can be found on our [**Project Page**](https://nvedit.github.io/).
     <td colspan="2"><center>"Turn the wolf into a brown bear"</center></td>
   </tr>
   <tr>
-    <td><img src="teaser/videos/Bosp.gif" alt="Image 1"></td>
-    <td><img src="teaser/videos/Bosp_autumn.gif" alt="Animation 1"></td>
-    <td><img src="teaser/videos/person.gif" alt="Image 2"></td>
-    <td><img src="teaser/videos/person_pink.gif" alt="Animation 1"></td>
-    <td><img src="teaser/videos/train.gif" alt="Image 3"></td>
-    <td><img src="teaser/videos/train_Monet.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/Bosp.gif"></td>
+    <td><img src="teaser/videos/Bosp_autumn.gif"></td>
+    <td><img src="teaser/videos/person.gif"></td>
+    <td><img src="teaser/videos/person_pink.gif"></td>
+    <td><img src="teaser/videos/train.gif"></td>
+    <td><img src="teaser/videos/train_Monet.gif"></td>
   </tr>
   <tr>
     <td colspan="2"><center>"Make it autumn"</center></td>
@@ -45,12 +45,12 @@ More results can be found on our [**Project Page**](https://nvedit.github.io/).
     <td colspan="2"><center>"Turn it into Monet style"</center></td>
   </tr>
   <tr>
-    <td><img src="teaser/videos/ms.gif" alt="Image 1"></td>
-    <td><img src="teaser/videos/ms_Hulk.gif" alt="Animation 1"></td>
-    <td><img src="teaser/videos/cat.gif" alt="Image 3"></td>
-    <td><img src="teaser/videos/cat_ginger.gif" alt="Animation 1"></td>
-    <td><img src="teaser/videos/sunflower.gif" alt="Image 2"></td>
-    <td><img src="teaser/videos/sunflower_VG.gif" alt="Animation 1"></td>
+    <td><img src="teaser/videos/ms.gif"></td>
+    <td><img src="teaser/videos/ms_Hulk.gif"></td>
+    <td><img src="teaser/videos/cat.gif"></td>
+    <td><img src="teaser/videos/cat_ginger.gif"></td>
+    <td><img src="teaser/videos/sunflower.gif"></td>
+    <td><img src="teaser/videos/sunflower_VG.gif"></td>
   </tr>
   <tr>
     <td colspan="2"><center>"Turn him into the Hulk"</center></td>
