@@ -19,12 +19,12 @@ More results can be found on our [**Home Page**](https://nvedit.github.io/).
 
 <table>
   <tr>
-    <td><img width="120" height="120" src="teaser/videos/car.gif" alt="Image 1"></td>
-    <td><img width="120" height="120" src="teaser/videos/car_snow.gif" alt="Animation 1"></td>
-    <td><img width="120" height="120" src="teaser/videos/face.gif" alt="Image 2"></td>
-    <td><img width="120" height="120" src="teaser/videos/face_mustache.gif" alt="Animation 1"></td>
-    <td><img width="120" height="120" src="teaser/videos/wolf.gif" alt="Image 3"></td>
-    <td><img width="120" height="120" src="teaser/videos/wolf_bear.gif" alt="Animation 1"></td>
+    <td><img width="100" height="100" src="teaser/videos/car.gif" alt="Image 1"></td>
+    <td><img width="100" height="100" src="teaser/videos/car_snow.gif" alt="Animation 1"></td>
+    <td><img width="100" height="100" src="teaser/videos/face.gif" alt="Image 2"></td>
+    <td><img width="100" height="100" src="teaser/videos/face_mustache.gif" alt="Animation 1"></td>
+    <td><img width="100" height="100" src="teaser/videos/wolf.gif" alt="Image 3"></td>
+    <td><img width="100" height="100" src="teaser/videos/wolf_bear.gif" alt="Animation 1"></td>
   </tr>
   <tr>
     <td colspan="2"><center>"Make it snowed"</center></td>
