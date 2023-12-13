@@ -17,6 +17,52 @@ We have showcased some results of video editing using **NVEdit** on real-world v
 
 More results can be found on our [**Home Page**](https://nvedit.github.io/).
 
+<table>
+  <tr>
+    <td>
+      <video width="320" height="320" controls autoplay loop>
+        <source src="teaser/videos/wolf.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="320" controls autoplay loop>
+        <source src="teaser/videos/wolf_bear.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="320" controls autoplay loop>
+        <source src="teaser/videos/face.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="320" controls autoplay loop>
+        <source src="teaser/videos/face_mustache.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="320" controls autoplay loop>
+        <source src="teaser/videos/car.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="320" controls autoplay loop>
+        <source src="teaser/videos/car_snow.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center>"Turn the wolf into a brown bear"</center></td>
+    <td colspan="2"><center>"Give him a mustache"</center></td>
+    <td colspan="2"><center>"Make it snowed"</center></td>
+  </tr>
+</table>
+
 
 ## Code
 
