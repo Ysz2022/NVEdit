@@ -68,7 +68,7 @@ More results can be found on our [**Project Page**](https://nvedit.github.io/).
 Our code is coming soon……
 
 
-## BibTeX
+## 📌 BibTeX
 ```
 @article{yang2023nvedit,
   title={Neural Video Fields Editing},
