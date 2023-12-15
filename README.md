@@ -5,7 +5,7 @@
 
 <sup>1</sup> SECE, Peking University, <sup>2</sup> Peng Cheng Laboratory
 
-[![arXiv](https://img.shields.io/badge/arXiv-<Coming_Soon>-<COLOR>.svg)](https://github.com/Ysz2022/NVEdit)
+[![arXiv](https://img.shields.io/badge/arXiv-<NVEdit>-<COLOR>.svg)](https://arxiv.org/abs/2312.08882)
 [![Project Page](https://img.shields.io/badge/Project_Page-<Gallery>-blue.svg)](https://nvedit.github.io/)
 
 **TL;DR: Editing long videos coherently via neural video fields.**
