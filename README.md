@@ -66,3 +66,14 @@ More results can be found on our [**Project Page**](https://nvedit.github.io/).
 ## 🤖 Code
 
 Our code is coming soon……
+
+
+## BibTeX
+```
+@article{yang2023nvedit,
+  title={Neural Video Fields Editing},
+  author={Shuzhou Yang and Chong Mou and Jiwen Yu and Yuhan Wang and Xiandong Meng and Jian Zhang},
+  journal={arXiv preprint arXiv:2312.08882},
+  year={2023}
+}
+```
