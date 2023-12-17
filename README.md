@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Neural Video Fields Editing</h3>
 
-[Shuzhou Yang](https://ysz2022.github.io/)<sup>1,2</sup>, [Chong Mou](https://scholar.google.com/citations?user=SYQoDk0AAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>, [Jiwen Yu](https://vvictoryuki.github.io/website/)<sup>1</sup>, Yuhan Wang<sup>1,2</sup>, [Xiandong Meng](https://orcid.org/0000-0002-1295-769X)<sup>2</sup>, [Jian Zhang](https://jianzhang.tech/)<sup>1*</sup>
+[Shuzhou Yang](https://ysz2022.github.io/)<sup>1,2</sup>, [Chong Mou](https://scholar.google.com/citations?user=SYQoDk0AAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>, [Jiwen Yu](https://vvictoryuki.github.io/website/)<sup>1</sup>, [Yuhan Wang](https://github.com/Ysz2022/NVEdit)<sup>1,2</sup>, [Xiandong Meng](https://orcid.org/0000-0002-1295-769X)<sup>2</sup>, [Jian Zhang](https://jianzhang.tech/)<sup>1*</sup>
 
 <sup>1</sup> SECE, Peking University, <sup>2</sup> Peng Cheng Laboratory
 
